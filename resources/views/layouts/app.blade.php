@@ -20,7 +20,6 @@
 
 
     <!-- Scripts -->
-    @vite(['resources/sass/app.scss', 'resources/js/app.js'])
     <style>
         * {
             font-family: 'Nunito' !important;
